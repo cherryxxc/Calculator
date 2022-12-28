@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\MyForm.h(532,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\MyForm.h(539,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\MyForm.h(568,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinFormsCourse.vcxproj -> D:\Projects\Visual Studio\WinFormsCourse\x64\Debug\WinFormsCourse.exe

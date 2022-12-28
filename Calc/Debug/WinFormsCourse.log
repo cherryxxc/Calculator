@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (WinFormsCourse.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\MyForm.h(533,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\MyForm.h(540,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\MyForm.h(569,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinFormsCourse.vcxproj -> D:\Projects\Visual Studio\Calculator\Debug\Calculator.exe

@@ -1,0 +1,4 @@
+D:\Projects\Visual Studio\Calculator — копия\WinFormsCourse\Release\WinFormsCourse.vcxproj.AssemblyReference.cache
+D:\Projects\Visual Studio\Calculator — копия\WinFormsCourse\Release\WinFormsCourse.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\Calculator — копия\WinFormsCourse\Release\WinFormsCourse.MyForm.resources
+D:\Projects\Visual Studio\Calculator — копия\WinFormsCourse\Release\WinFormsCourse.vcxproj.GenerateResource.cache

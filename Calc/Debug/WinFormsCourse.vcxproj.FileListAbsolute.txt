@@ -1,0 +1,8 @@
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\Debug\WinFormsCourse.vcxproj.AssemblyReference.cache
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\Debug\WinFormsCourse.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\Debug\WinFormsCourse.MyForm.resources
+D:\Projects\Visual Studio\WinFormsCourse\WinFormsCourse\Debug\WinFormsCourse.vcxproj.GenerateResource.cache
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\Debug\WinFormsCourse.vcxproj.AssemblyReference.cache
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\Debug\WinFormsCourse.vcxproj.SuggestedBindingRedirects.cache
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\Debug\WinFormsCourse.MyForm.resources
+D:\Projects\Visual Studio\Calculator\WinFormsCourse\Debug\WinFormsCourse.vcxproj.GenerateResource.cache
